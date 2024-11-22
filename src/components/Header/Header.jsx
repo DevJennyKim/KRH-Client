@@ -8,6 +8,14 @@ function Header() {
   const [activeTab, setActiveTab] = useState('forYou');
   const navigate = useNavigate();
 
+  const handleLogoClick = () => {
+    window.scroll({
+      top: 0,
+      left: 0,
+      behavior: 'smooth',
+    });
+  };
+
   useEffect(() => {
     if (location.pathname.includes('forYou')) {
       setActiveTab('forYou');
@@ -25,6 +33,7 @@ function Header() {
       <header className="header">
         <Link to="/" className="header__sitelogo-container">
           <img
+            onClick={handleLogoClick}
             src={logo}
             alt="Koala riding horses Logo"
             className="header__sitelogo"

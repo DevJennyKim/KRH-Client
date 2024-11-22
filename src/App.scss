@@ -7,12 +7,15 @@
 }
 
 .main {
+  padding-top: 2rem;
   @include tablet {
+    padding-top: 4rem;
     margin: 0 25vw;
     border-right: 1px solid lightgray;
     border-left: 1px solid lightgray;
   }
   @include desktop {
+    padding-top: 4rem;
     margin: 0 30vw;
     border-right: 1px solid lightgray;
     border-left: 1px solid lightgray;
