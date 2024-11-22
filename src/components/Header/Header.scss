@@ -9,8 +9,9 @@
   position: sticky;
   width: 100%;
   top: 0;
-  background-color: white;
-  z-index: 4;
+  background-color: rgba(255, 255, 255, 0.7);
+  z-index: 2;
+  backdrop-filter: blur(10px);
 
   &__nav {
     width: 100%;
@@ -55,6 +56,7 @@
     .header__nav-menu-item-link {
       width: 100%;
       padding: 0.5rem 0;
+      padding: 0.5rem 0;
       background: transparent;
       color: $color-bg-dark-grey;
       border-bottom: 1px solid $color-bg-dark-grey;
@@ -62,7 +64,7 @@
       border-left: none;
       border-right: none;
       cursor: pointer;
-      font-size: inherit;
+      font-size: 0.75rem;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -85,6 +87,8 @@
   align-items: center;
 }
 .header__sitelogo {
+  height: 2rem;
+  width: 2rem;
   height: 2rem;
   width: 2rem;
   transition: transform 0.2s ease;

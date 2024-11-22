@@ -38,7 +38,6 @@ function InputForm({ setTooltipVisible, posts, setPosts }) {
             <br />
             What do you want to see? 🐾
             <br />
-            <br />
             E.g. I feel a little down today but I want to cheer up, show me
             animals
           </div>

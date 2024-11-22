@@ -51,7 +51,8 @@
     font-size: 0.8rem;
   }
   &__date {
-    font-size: 0.5rem;
+    font-size: 0.6rem;
+    color: grey;
   }
 
   &__image {
@@ -59,6 +60,7 @@
     padding: 0.25rem 0;
     &-image {
       width: 90%;
+      border-radius: 0.5rem;
     }
   }
 
@@ -68,7 +70,7 @@
     &-text {
       text-align: start;
       width: 100%;
-      font-size: 0.625rem;
+      font-size: 0.7rem;
     }
   }
 }

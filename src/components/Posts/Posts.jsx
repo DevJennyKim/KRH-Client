@@ -27,11 +27,11 @@ function Posts({ posts }) {
               <p className="post__content-text">{post.content}</p>
             </div>
             <div className="post__image">
-              <img
+              {post.image && <img
                 className="post__image-image"
-                src="https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-vector-picture-icon-png-image_695350.jpg"
-                alt={post.title}
-              />
+                src={post.image}
+                alt={post.author}
+              />}
               {/* <img src={post.image || "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-vector-picture-icon-png-image_695350.jpg"} alt={post.title} /> */}
             </div>
           </div>

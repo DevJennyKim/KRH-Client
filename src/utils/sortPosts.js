@@ -1,12 +1,9 @@
 import keyword_dict from '/src/data/keywordsDict.json';
 
 const sortPosts = (userInput, posts) => {
-  // console.log(posts); // pass
 
   // Parse the user input into lowercase and split it into individual words
   const userInputWords = userInput.toLowerCase().split(/\s+/);
-
-  // console.log(userInputWords); // pass
 
   // Function to check if any user input words match the keywords in the dictionary
   const getMatchingCategories = (inputWords) => {
@@ -23,8 +20,6 @@ const sortPosts = (userInput, posts) => {
 
   // Get the categories based on the user input
   const categories = getMatchingCategories(userInputWords);
-
-  // console.log(categories); // pass
 
   // Function to calculate a score based on keyword matches in post
   const calculateMatchScore = (post) => {

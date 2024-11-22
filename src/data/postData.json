@@ -4,239 +4,279 @@
     "date": "1h",
     "content": "Feeling great today! 😄 Started my morning with a run. Ready to tackle the day! 💪",
     "keywords": "motivation, morning, run, fitness",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/morning-run.jpg"
   },
   {
     "author": "tech_guru",
     "date": "3d",
     "content": "Check out this new tech! 🚀 The latest smartphone has just been released. Who’s excited? 😍",
     "keywords": "tech, smartphone, release, news",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/phone-release.jpg"
   },
   {
     "author": "sarah_smith",
     "date": "9m",
     "content": "Family dinner time 🍕 Pizza night with the family. Best way to end the week! 😋",
     "keywords": "family, dinner, pizza, food",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/pizza-night.jpg"
   },
   {
     "author": "travel_junkie",
     "date": "11/13/2024",
     "content": "Weekend vibes 🌞 Exploring the beach today. Can’t get enough of this beautiful weather! 🏖️",
     "keywords": "beach, weekend, vacation, getaway",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "jane_writer",
     "date": "11/12/2024",
     "content": "New blog post alert! 📝 I just published a new post on how to stay productive during the holidays. Check it out here: [link]",
     "keywords": "blog, productivity, tips, holidays",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "fit_lover",
     "date": "1w",
     "content": "Got my workout in! 🏋️‍♂️ Pushed myself harder in today’s workout. Feeling strong and ready for the weekend! 💥",
     "keywords": "workout, fitness, health, gym",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "wanderlust_explorer",
     "date": "11/15/2024",
     "content": "Exploring new places 🌍 Just booked my tickets for my next adventure! Can’t wait to see the world. ✈️",
     "keywords": "travel, adventure, tickets, wanderlust",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "dev_coder",
     "date": "11/14/2024",
     "content": "Coffee and coding! 💻☕ Nothing beats a cup of coffee while diving into some code. 👨‍💻",
     "keywords": "coffee, coding, developer, productivity",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "community_hero",
     "date": "11/13/2024",
     "content": "Giving back to the community! 🤝 Spent the afternoon volunteering at the local shelter. Grateful for the opportunity to help others. ❤️",
     "keywords": "volunteer, community, giving, shelter",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "emily_jones",
     "date": "11/12/2024",
     "content": "Enjoying a cozy evening at home 🏡✨ A warm blanket, a good book, and a cup of tea—perfect evening.",
     "keywords": "cozy, evening, tea, relaxation",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/evening-tea.jpg"
   },
   {
     "author": "peaceful_panda",
     "date": "2h",
     "content": "Unwinding with a soothing lavender-scented bath. 🌸✨ Just what I needed to recharge.",
     "keywords": "relaxation, bath, lavender, self-care",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/lavender-bath.png"
   },
   {
     "author": "cozy_corner",
     "date": "5h",
     "content": "Nothing beats curling up with a fluffy blanket and some calming music. 🎶☕",
     "keywords": "relaxation, cozy, blanket, music",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "serene_mind",
     "date": "1d",
     "content": "Practiced some yoga under the trees today. Feeling so grounded and at peace. 🌳🧘‍♀️",
     "keywords": "relaxation, yoga, peace, nature",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/yoga-trees.jpg"
   },
   {
     "author": "zen_seeker",
     "date": "2d",
     "content": "Meditation is my daily escape. 15 minutes of stillness can change your whole mindset. 🕊️",
     "keywords": "relaxation, meditation, calm, mindfulness",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "calm_waters",
     "date": "3d",
     "content": "Spent the afternoon by the lake, listening to the gentle ripples. Nature truly is the best therapist. 🌊☀️",
     "keywords": "relaxation, lake, nature, peace",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/afternoon-lake.jpg"
   },
   {
     "author": "restful_reads",
     "date": "4d",
     "content": "A good book and a comfy chair—pure bliss. 📖💤",
     "keywords": "relaxation, book, comfy, chair",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "spa_day_everyday",
     "date": "5d",
     "content": "DIY spa day: face masks, soft robes, and a cup of herbal tea. 🛁✨",
     "keywords": "relaxation, spa, tea, pampering",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "tranquil_tea",
     "date": "1w",
     "content": "Matcha latte in hand, watching the raindrops hit the window. The perfect cozy afternoon. 🌧️🍵",
     "keywords": "relaxation, matcha, rain, cozy",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/rainy-matcha.jpg"
   },
   {
     "author": "gentle_soul",
     "date": "11/15/2024",
     "content": "Took a slow walk through the forest. Every step felt like a deep breath. 🌲🌿",
     "keywords": "relaxation, forest, walk, breathing",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "mindful_moments",
     "date": "11/14/2024",
     "content": "Lit my favorite candle and just sat in stillness. Sometimes, that’s all you need. 🕯️💭",
     "keywords": "relaxation, candle, mindfulness, stillness",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "artful_explorer",
     "date": "30m",
     "content": "Started a new painting today. I love watching the colors come to life on the canvas. 🎨✨",
     "keywords": "creativity, painting, colors, art",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/painting-colors.jpg"
   },
   {
     "author": "crafty_queen",
     "date": "2h",
     "content": "Tried my hand at pottery for the first time. It’s messy but so rewarding! 🏺💫",
     "keywords": "creativity, pottery, craft, art",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/pottery.jpg"
   },
   {
     "author": "diy_dreamer",
     "date": "1d",
     "content": "Just finished a DIY macramé wall hanging. My living room looks so much better now! 🧶🌿",
     "keywords": "creativity, macrame, DIY, home",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/macrame.jpg"
   },
   {
     "author": "storyteller_sam",
     "date": "2d",
     "content": "Spent the evening writing a short story. Can’t wait to share it with friends. 📚✨",
     "keywords": "creativity, writing, story, author",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "snapshots_by_sam",
     "date": "3d",
     "content": "Captured a beautiful sunset today. Nature is truly the best artist. 📸🌅",
     "keywords": "creativity, photography, sunset, nature",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/sunset.jpg"
   },
   {
     "author": "handmade_hearts",
     "date": "4d",
     "content": "Sewed my first tote bag today! I’m obsessed with how it turned out. 🧵👜",
     "keywords": "creativity, sewing, handmade, craft",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/sew-tote.jpg"
   },
   {
     "author": "kitchen_artist",
     "date": "5d",
     "content": "Tried food plating as an art form today. My dinner looked (and tasted) amazing! 🍴🎨",
     "keywords": "creativity, food, plating, art",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "music_muse",
     "date": "1w",
     "content": "Composed a short piano piece inspired by the rain. Music is magic. 🎶🌧️",
     "keywords": "creativity, music, composing, piano",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": "/src/assets/photos/compose-rain.jpeg"
   },
   {
     "author": "innovative_ides",
     "date": "11/13/2024",
     "content": "Built a mini terrarium from scratch. It’s like having a tiny garden indoors! 🌱✨",
     "keywords": "creativity, terrarium, gardening, DIY",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
   },
   {
     "author": "poetic_heart",
     "date": "11/12/2024",
     "content": "Wrote a poem inspired by the stars tonight. Creativity really is a bridge to the soul. 🌌🖋️",
     "keywords": "creativity, poetry, stars, writing",
-    "order": "",
-    "image": "/src/assets/photos/placeholder.jpg"
+    "image": ""
+  },
+  {
+    "author": "fluffy_joy",
+    "date": "3h",
+    "content": "Look at this adorable puppy I met at the park today! 🐶❤️ Pure happiness.",
+    "keywords": "animals, relaxation, joy",
+    "image": "/src/assets/photos/puppy-park.jpg"
+  },
+  {
+    "author": "meow_magic",
+    "date": "6h",
+    "content": "My cat just learned how to high-five! 🐾✨ Cats are the best companions.",
+    "keywords": "animals, creativity, companionship",
+    "image": ""
+  },
+  {
+    "author": "gentle_giraffe",
+    "date": "1d",
+    "content": "Watching a video of baby elephants playing in the mud—instant mood boost! 🐘💦",
+    "keywords": "animals, relaxation",
+    "image": "/src/assets/photos/baby-elephants-mud.jpg"
+  },
+  {
+    "author": "paws_and_peace",
+    "date": "2d",
+    "content": "A lazy Sunday spent cuddling with my dog. Best way to recharge. 🐾❤️",
+    "keywords": "animals, relaxation",
+    "image": "/src/assets/photos/cuddling-dog.jpg"
+  },
+  {
+    "author": "bunny_bliss",
+    "date": "11/15/2024",
+    "content": "My bunny loves hopping around the garden—cutest thing ever! 🐇🌸",
+    "keywords": "animals, creativity, garden",
+    "image": "/src/assets/photos/bunny-garden.jpg"
+  },
+  {
+    "author": "feathered_friend",
+    "date": "11/14/2024",
+    "content": "Teaching my parrot to say 'good morning.' Birds are such smart creatures! 🦜✨",
+    "keywords": "animals, creativity, morning",
+    "image": ""
+  },
+  {
+    "author": "froggy_fun",
+    "date": "11/13/2024",
+    "content": "Found a tiny frog on my evening walk. Nature is full of surprises! 🐸🌿",
+    "keywords": "animals, nature, creativity",
+    "image": "/src/assets/photos/night-frog.jpeg"
+  },
+  {
+    "author": "zen_kittens",
+    "date": "11/12/2024",
+    "content": "Watched a litter of kittens play for an hour—pure relaxation therapy. 🐱✨",
+    "keywords": "animals, relaxation",
+    "image": "/src/assets/photos/kitten-litter.jpeg"
+  },
+  {
+    "author": "active_critters",
+    "date": "11/12/2024",
+    "content": "Took my dog on a long run today. He loved every minute of it! 🐕‍🦺💨",
+    "keywords": "animals, fitness, run",
+    "image": "/src/assets/photos/dog-run.jpg"
+  },
+  {
+    "author": "fit_lover",
+    "date": "1w",
+    "content": "Got my workout in! 🏋️‍♂️ Pushed myself harder in today’s workout. Feeling strong and ready for the weekend! 💥",
+    "keywords": "fitness, workout, strength",
+    "image": ""
   }
 ]

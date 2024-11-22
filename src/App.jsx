@@ -16,7 +16,6 @@ function App() {
     <>
       <BrowserRouter>
         <Header />
-
         <NavBar />
         <Routes>
           <Route
